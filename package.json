@@ -1,0 +1,13 @@
+{
+  "name": "tahaupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
